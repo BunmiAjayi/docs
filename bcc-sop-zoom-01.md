@@ -8,11 +8,11 @@
 
 **Purpose**
 
-This SOP covers the basic activities/tasks that need to be carried out when providing technical hosting support in a BCC Zoom video conference.
+This Standard Operational Procedure (SOP) covers the basic activities/tasks that need to be carried out when providing technical hosting support in a BCC Zoom video conference.
 
 There are two types of Zoom video conferences - many to many (typical Zoom video conference) and one/few to many (Webinar type  video conference). The Zoom Webinar product achieves the latter but will not be utilised by BCC for now. 
 
-**Scope**
+**Usage scenarios** - the list below is not exhaustive 
 
 - Zoom video conferences booked in the events calendar (requiring support) e.g. Monthly Church Prayer Meeting 
 - Large attendance expected - 100+ participants
@@ -44,9 +44,9 @@ Zoom Meetings, Advanced - https://support.zoom.us/hc/en-us/articles/360029527911
 
 **Procedure**
 
-| Responsible Party | Action(s)                                                       |
+| Responsible Party | Action(s)                                                    |
 | :---------------- | ------------------------------------------------------------ |
-| Tech lead         | Confirm take on of event - (a minimum of two people are required -  tech lead and backup) |
+| Tech lead         | Confirm take on of event with the church office and agree engagement approach with event owner - (a minimum of two people are required -  tech lead and backup) |
 | Event owner       | Provide detailed event schedule and any collateral that may be required. Liaise with the tech lead as required. It is the responsibility of the event owner to provide all that is required well ahead of the event |
 | Tech lead         | Work with the church office to organise the event i.e. planning with Ops manager and event owner. **Note:**  *you must run the video-conference from a workstation as opposed to a mobile device such as an iPad or mobile phone* |
 | Backup            | Provide support to lead were necessary                       |
